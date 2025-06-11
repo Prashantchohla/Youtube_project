@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchainhub
+langchain-text-splitters
+langchain_community
+langchain_core
+langchain_huggingface
+chromadb
+huggingface_hub
+sentence-transformers
+youtube-transcript-api
+youtube_transcript_api
+python-dotenv
+s
